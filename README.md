@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3731-find-missing-elements](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
