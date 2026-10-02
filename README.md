@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/1406-stone-game-iii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhil1121/Leetcode-solving-question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
