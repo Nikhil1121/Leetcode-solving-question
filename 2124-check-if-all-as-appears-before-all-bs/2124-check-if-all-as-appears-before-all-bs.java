@@ -1,6 +1,17 @@
 
 class Solution {
     public boolean checkString(String s) {
-        return !s.contains("ba");
+        boolean foundB = false;
+
+        for (char ch : s.toCharArray()) {
+            if (ch == 'b') {
+                foundB = true;
+            } else if (foundB) {
+                return false;
+            }
+        }
+
+        return true;
     }
 }
+
